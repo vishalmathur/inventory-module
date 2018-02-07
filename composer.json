@@ -19,5 +19,6 @@
             "homepage": "https://www.lumbrales-software.com/",
             "role": "Developer"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
 }
