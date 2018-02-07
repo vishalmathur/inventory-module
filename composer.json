@@ -1,5 +1,5 @@
 {
-    "name": "lumbrales-software/magento2-first-module",
+    "name": "inventory/magento2-stock-module",
     "description": "Hello world module using composer!",
     "require": {
     },
