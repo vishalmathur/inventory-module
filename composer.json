@@ -9,7 +9,7 @@
         "map": [
             [
                 "*",
-                "LumbralesSoftware/HelloWorld"
+                "inventory-module/stock"
             ]
         ]
     },
