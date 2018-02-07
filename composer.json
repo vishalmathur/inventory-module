@@ -1,13 +1,23 @@
 {
-    "name": "inventory/module-stock",
-    "description": "Inventory Stock module is manage stock ",
+    "name": "lumbrales-software/magento2-first-module",
+    "description": "Hello world module using composer!",
+    "require": {
+    },
     "type": "magento2-module",
+    "version": "1.0.2",
     "extra": {
         "map": [
             [
                 "*",
-                "Inventory/Stock"
+                "LumbralesSoftware/HelloWorld"
             ]
         ]
-    }
+    },
+    "authors": [
+        {
+            "name": "Javi Lumbrales",
+            "homepage": "https://www.lumbrales-software.com/",
+            "role": "Developer"
+        }
+    ]
 }
