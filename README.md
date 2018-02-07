@@ -1,7 +1,7 @@
 
-# nventory-module Create Mnage stock or product information in warehouse
+# Inventory-module  Manage stock or product information in warehouse
 
-This is an example module for create admin grid and check stock and shipment of product
+This is an example module for create admin grid and check stock or shipment of product
 ## Manually Installation
 
 Magento2 module installation is very easy, please follow the steps for installation-
