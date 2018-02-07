@@ -13,4 +13,10 @@
             ]
         ]
     },
+    "repositories": [
+   {
+     "type": "vcs",
+     "url": "https://github.com/vishalmathur/inventory-module"
+   }
+ ],
 }
