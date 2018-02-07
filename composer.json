@@ -13,12 +13,4 @@
             ]
         ]
     },
-    "authors": [
-        {
-            "name": "Javi Lumbrales",
-            "homepage": "https://www.lumbrales-software.com/",
-            "role": "Developer"
-        }
-    ],
-    "minimum-stability": "alpha",
 }
