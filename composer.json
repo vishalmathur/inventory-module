@@ -1,0 +1,13 @@
+{
+    "name": "inventory/module-stock",
+    "description": "Inventory Stock module is manage stock ",
+    "type": "magento2-module",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Inventory/Stock"
+            ]
+        ]
+    }
+}
